@@ -6,6 +6,9 @@ what files to track.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It is a temporary area, unlike working directory and the repository.
+It works as a buffer zone where you customize which files you want git to track.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
