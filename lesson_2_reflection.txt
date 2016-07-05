@@ -28,5 +28,9 @@ You can easily see the way commits are split into different branches.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It creates a new commit containing all modifications on both branches, which
+points to the branch we currently have checked out. It is graphicly represented 
+in the diagram as the tips of both branches merging into one commit.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
