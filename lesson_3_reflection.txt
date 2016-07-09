@@ -30,4 +30,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I am working on an additional feature that I want to get feedback on.
+    This way people from either the GitHub community or my teammates will be 
+    able to check my code and make sure everything is working as intended before
+    merging the changes into the master branch.
